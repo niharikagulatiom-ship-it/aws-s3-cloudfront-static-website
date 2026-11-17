@@ -18,6 +18,6 @@ This project demonstrates how to host static website content securely on Amazon 
 - Configured bucket permissions for secure access.
 - Deployed and tested the live website.
 
-**Live Website:** https://d2r24frcwm8bk.cloudfront.net
+**Live Website:** https://d2r24frcwmr8bk.cloudfront.net/
 
 **Skills Demonstrated:** AWS S3, CloudFront, CDN, IAM permissions, Bucket Policies, and Cloud Security Basics.
